@@ -57,65 +57,65 @@ Below is a comparison of commercial SaaS security audit trail platforms, sorted 
 
 ## 🔓 Open-Source Security & Audit Logging Repositories
 
-The top open-source projects for capturing, routing, and analyzing security audit logs, sorted in **descending order by GitHub star counts**.
+The top open-source projects for capturing, routing, and analyzing security audit logs, sorted in **descending order by GitHub Stars_Counts**.
 
-### 1. **[elastic/elasticsearch](https://github.com/elastic/elasticsearch)** [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers)
+### 1. **[elastic/elasticsearch](https://github.com/elastic/elasticsearch)** [![GitHub_Stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers)
 - 📝 **Description**: The industry-standard distributed search and analytics engine powering log aggregation, Elastic Security, and custom SIEM audit trails.
 - 📜 **License**: ELv2 / SSPL
 
-### 2. **[grafana/grafana](https://github.com/grafana/grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)
+### 2. **[grafana/grafana](https://github.com/grafana/grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)
 - 📝 **Description**: Multi-platform visualization and analytics dashboard used to build interactive SOC panels, compliance metrics, and log queries.
 - 📜 **License**: AGPL-3.0
 
-### 3. **[grafana/loki](https://github.com/grafana/loki)** [![GitHub stars](https://img.shields.io/github/stars/grafana/loki?style=social&color=white)](https://github.com/grafana/loki/stargazers)
+### 3. **[grafana/loki](https://github.com/grafana/loki)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/loki?style=social&color=white)](https://github.com/grafana/loki/stargazers)
 - 📝 **Description**: Horizontally scalable, highly available multi-tenant log aggregation system designed to index metadata rather than full-text log contents.
 - 📜 **License**: AGPL-3.0
 
-### 4. **[vectordotdev/vector](https://github.com/vectordotdev/vector)** [![GitHub stars](https://img.shields.io/github/stars/vectordotdev/vector?style=social&color=white)](https://github.com/vectordotdev/vector/stargazers)
+### 4. **[vectordotdev/vector](https://github.com/vectordotdev/vector)** [![GitHub_Stars](https://img.shields.io/github/stars/vectordotdev/vector?style=social&color=white)](https://github.com/vectordotdev/vector/stargazers)
 - 📝 **Description**: High-performance, Rust-based observability data pipeline for collecting, transforming, and routing massive log and audit event streams.
 - 📜 **License**: MPL-2.0
 
-### 5. **[wazuh/wazuh](https://github.com/wazuh/wazuh)** [![GitHub stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers)
+### 5. **[wazuh/wazuh](https://github.com/wazuh/wazuh)** [![GitHub_Stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers)
 - 📝 **Description**: Complete enterprise open-source security monitoring platform featuring native audit log analysis, FIM, vulnerability detection & regulatory compliance dashboards (PCI DSS, HIPAA, GDPR).
 - 📜 **License**: GPL-2.0
 
-### 6. **[opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)** [![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)
+### 6. **[opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)** [![GitHub_Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)
 - 📝 **Description**: Community-driven, open-source search and analytics suite featuring Security Analytics with pre-built Sigma rules and anomaly detection.
 - 📜 **License**: Apache-2.0
 
-### 7. **[fluent/fluentd](https://github.com/fluent/fluentd)** [![GitHub stars](https://img.shields.io/github/stars/fluent/fluentd?style=social&color=white)](https://github.com/fluent/fluentd/stargazers)
+### 7. **[fluent/fluentd](https://github.com/fluent/fluentd)** [![GitHub_Stars](https://img.shields.io/github/stars/fluent/fluentd?style=social&color=white)](https://github.com/fluent/fluentd/stargazers)
 - 📝 **Description**: CNCF-graduated unified logging layer with 500+ plugins for filtering, parsing, and shipping audit logs across enterprise infrastructures.
 - 📜 **License**: Apache-2.0
 
-### 8. **[fluent/fluent-bit](https://github.com/fluent/fluent-bit)** [![GitHub stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers)
+### 8. **[fluent/fluent-bit](https://github.com/fluent/fluent-bit)** [![GitHub_Stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers)
 - 📝 **Description**: Super fast, lightweight log processor and forwarder built for Kubernetes environments, microservices, and edge devices.
 - 📜 **License**: Apache-2.0
 
-### 9. **[Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server)** [![GitHub stars](https://img.shields.io/github/stars/Graylog2/graylog2-server?style=social&color=white)](https://github.com/Graylog2/graylog2-server/stargazers)
+### 9. **[Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server)** [![GitHub_Stars](https://img.shields.io/github/stars/Graylog2/graylog2-server?style=social&color=white)](https://github.com/Graylog2/graylog2-server/stargazers)
 - 📝 **Description**: Centralized log management engine with real-time search, alert routing, dashboards, and experimental Model Context Protocol (MCP) endpoint integration.
 - 📜 **License**: SSPL-1.0
 
-### 10. **[open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)** [![GitHub stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)
+### 10. **[open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)** [![GitHub_Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)
 - 📝 **Description**: Vendor-agnostic proxy receiver, processor, and exporter for vendor-neutral telemetry logs, metrics, and traces.
 - 📜 **License**: Apache-2.0
 
-### 11. **[arkime/arkime](https://github.com/arkime/arkime)** [![GitHub stars](https://img.shields.io/github/stars/arkime/arkime?style=social&color=white)](https://github.com/arkime/arkime/stargazers)
+### 11. **[arkime/arkime](https://github.com/arkime/arkime)** [![GitHub_Stars](https://img.shields.io/github/stars/arkime/arkime?style=social&color=white)](https://github.com/arkime/arkime/stargazers)
 - 📝 **Description**: Large-scale, open-source PCAP network log capture, indexing, and deep packet audit inspection interface.
 - 📜 **License**: Apache-2.0
 
-### 12. **[OISF/suricata](https://github.com/OISF/suricata)** [![GitHub stars](https://img.shields.io/github/stars/OISF/suricata?style=social&color=white)](https://github.com/OISF/suricata/stargazers)
+### 12. **[OISF/suricata](https://github.com/OISF/suricata)** [![GitHub_Stars](https://img.shields.io/github/stars/OISF/suricata?style=social&color=white)](https://github.com/OISF/suricata/stargazers)
 - 📝 **Description**: High-performance Network Threat Detection, IDS/IPS, and Network Security Monitoring engine outputting structured JSON audit logs.
 - 📜 **License**: GPL-2.0
 
-### 13. **[ossec/ossec-hids](https://github.com/ossec/ossec-hids)** [![GitHub stars](https://img.shields.io/github/stars/ossec/ossec-hids?style=social&color=white)](https://github.com/ossec/ossec-hids/stargazers)
+### 13. **[ossec/ossec-hids](https://github.com/ossec/ossec-hids)** [![GitHub_Stars](https://img.shields.io/github/stars/ossec/ossec-hids?style=social&color=white)](https://github.com/ossec/ossec-hids/stargazers)
 - 📝 **Description**: Classic host-based intrusion detection system (HIDS) performing rootkit detection, log analysis, and system integrity checking.
 - 📜 **License**: GPL-2.0
 
-### 14. **[syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng)** [![GitHub stars](https://img.shields.io/github/stars/syslog-ng/syslog-ng?style=social&color=white)](https://github.com/syslog-ng/syslog-ng/stargazers)
+### 14. **[syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng)** [![GitHub_Stars](https://img.shields.io/github/stars/syslog-ng/syslog-ng?style=social&color=white)](https://github.com/syslog-ng/syslog-ng/stargazers)
 - 📝 **Description**: High-performance system log management tool featuring structured JSON parsing, TLS encryption, and automated archiving.
 - 📜 **License**: GPL-2.0 / LGPL-2.1
 
-### 15. **[d3vhex/Sentora](https://github.com/d3vhex/Sentora)** [![GitHub stars](https://img.shields.io/github/stars/d3vhex/Sentora?style=social&color=white)](https://github.com/d3vhex/Sentora/stargazers)
+### 15. **[d3vhex/Sentora](https://github.com/d3vhex/Sentora)** [![GitHub_Stars](https://img.shields.io/github/stars/d3vhex/Sentora?style=social&color=white)](https://github.com/d3vhex/Sentora/stargazers)
 - 📝 **Description**: Open-source, AI-powered self-hosted SIEM, EDR, and SOAR platform with air-gapped threat intelligence feed integration.
 - 📜 **License**: GPL-3.0
 
